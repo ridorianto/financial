@@ -1,0 +1,113 @@
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\bin\Debug\aiafinancial.exe
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\bin\Debug\aiafinancial.pdb
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\bin\Debug\aiafinancial.xml
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.Resources.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.vbproj.GenerateResource.Cache
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.exe
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.xml
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.pdb
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmMain.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmUser.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJP_Asuransi.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJK_Nasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJS_Nasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPD_Nasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPimpinan.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmAgen.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmNasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmK_Nasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmS_Nasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPD_Nasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapNasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapKlaimNasabah.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLogin.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapPenarikan.resources
+C:\Users\Rido Rianto\Documents\Visual Studio 2008\Projects\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapSetoran.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.exe
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.xml
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.pdb
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\bin\Debug\aiafinancial.exe
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\bin\Debug\aiafinancial.pdb
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\bin\Debug\aiafinancial.xml
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapPenarikan.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapSetoran.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLogin.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmAgen.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJK_Nasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJP_Asuransi.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPD_Nasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJS_Nasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmK_Nasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapKlaimNasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapNasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmMain.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmNasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPD_Nasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPimpinan.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmS_Nasabah.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmUser.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.Resources.resources
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.vbproj.GenerateResource.Cache
+C:\Users\RICKYAPRIANSYAH\Desktop\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPB_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.exe
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.xml
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.pdb
+I:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.exe
+I:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.xml
+I:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.pdb
+F:\aiafinancial\aiafinancial\bin\Debug\aiafinancial.exe
+F:\aiafinancial\aiafinancial\bin\Debug\aiafinancial.pdb
+F:\aiafinancial\aiafinancial\bin\Debug\aiafinancial.xml
+F:\aiafinancial\aiafinancial\obj\Debug\ResolveAssemblyReference.cache
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPB_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapPenarikan.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapSetoran.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLogin.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmAgen.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJK_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJP_Asuransi.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPD_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJS_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmK_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapKlaimNasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapNasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmMain.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmNasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPD_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPimpinan.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmS_Nasabah.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmUser.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.Resources.resources
+F:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.vbproj.GenerateResource.Cache
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.xml
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.pdb
+D:\aiafinancial\aiafinancial\bin\Debug\aiafinancial.exe
+D:\aiafinancial\aiafinancial\bin\Debug\aiafinancial.pdb
+D:\aiafinancial\aiafinancial\bin\Debug\aiafinancial.xml
+D:\aiafinancial\aiafinancial\obj\Debug\ResolveAssemblyReference.cache
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPB_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapPenarikan.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapSetoran.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLogin.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmAgen.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJK_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJP_Asuransi.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJPD_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmJS_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmK_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapKlaimNasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmLapNasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmMain.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmNasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPD_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmPimpinan.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmS_Nasabah.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.frmUser.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.Resources.resources
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.vbproj.GenerateResource.Cache
+D:\aiafinancial\aiafinancial\obj\Debug\aiafinancial.exe
+D:\Document\Visual Basic .Net\aiafinancial\aiafinancial\obj\Debug\aiafinancial.exe
+D:\Document\Visual Basic .Net\aiafinancial\aiafinancial\obj\Debug\aiafinancial.xml
+D:\Document\Visual Basic .Net\aiafinancial\aiafinancial\obj\Debug\aiafinancial.pdb
